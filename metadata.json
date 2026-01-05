@@ -1,0 +1,7 @@
+{
+  "name": "AMI KAI - Voice Companion",
+  "description": "An immersive, real-time voice assistant powered by Gemini 2.5 Native Audio API for natural conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
